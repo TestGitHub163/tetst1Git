@@ -25,6 +25,7 @@ class ViewController: UIViewController {
         
         //App store
         
+        // fix bugs
         //code 3
         /*
          code3...
